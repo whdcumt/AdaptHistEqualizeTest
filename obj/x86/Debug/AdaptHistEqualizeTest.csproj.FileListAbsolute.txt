@@ -1,0 +1,5 @@
+C:\Users\pengw\Desktop\AdaptHistEqualizeTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\pengw\Desktop\AdaptHistEqualizeTest\obj\x86\Debug\BeepTest.FrmTest.resources
+C:\Users\pengw\Desktop\AdaptHistEqualizeTest\obj\x86\Debug\AdaptHistEqualizeTest.Properties.Resources.resources
+C:\Users\pengw\Desktop\AdaptHistEqualizeTest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\pengw\Desktop\AdaptHistEqualizeTest\obj\x86\Debug\GenerateResource.write.1.tlog
